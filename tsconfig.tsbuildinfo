@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/blueprintcanvas.tsx","./src/components/colorwheelpopover.tsx","./src/components/commandpalette.tsx","./src/components/layerspanel.tsx","./src/components/shapespopover.tsx","./src/components/toolrail.tsx","./src/data/initialnotebook.ts","./src/types/drawing.ts","./src/utils/canvasrenderer.ts"],"version":"5.9.3"}
